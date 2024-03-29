@@ -4,6 +4,7 @@ function App() {
   return (
     <>
       <div className=" text-blue-500 text-center text-xl">
+      <Link to='/'>Home</Link>
         <Link to="/login" className="mx-5">
           Login
         </Link>
